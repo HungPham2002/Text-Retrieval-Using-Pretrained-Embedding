@@ -28,6 +28,6 @@
   + Step 5: Indexing: The process of organizing and structuring a collection of documents or data to facilitate efficient retrieval of information. It involves creating an index that enables quick access to relevant documents based on search queries or specific attributes.
     * We can use document-term matrix as a database to indexing documents
     * Document-term Matrix: A mathematical matrix that describes the frequency of terms that occur in a collection of document.
-    * ![DocumentTermMatrix](1rTOcgVaSqxuIaOvTjAnUvsWg1YDKqKhR)
+    * ![DocumentTermMatrix](https://drive.google.com/uc?export=view&id=1rTOcgVaSqxuIaOvTjAnUvsWg1YDKqKhR)
   + Step 6: Ranking based on Cosine Similarity
 # The end.
